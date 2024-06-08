@@ -30,10 +30,7 @@ Quantities & Pricing:
 4 cookies - 8RM
 
 Ordering process:
-Specify cake tier number (accept 1 to 3)
-For each cake, specify which cake and icing flavour
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
+Specify cookie flavour and number of cookies.
 
 Ingredients:
 All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
@@ -48,9 +45,6 @@ Promotions:
 
 Tax:
 10% Government tax
-
-Icing:
-Icing is applied around each cake (except bottom part)
 
 Others:
 No vegan/free gluten options
