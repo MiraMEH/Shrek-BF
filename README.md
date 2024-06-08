@@ -26,19 +26,8 @@ Peanut Butter (Available)
 
 Quantities & Pricing:
 1 cookie - 3RM 
-Round cake 8 inch diameter - 50RM (62RM with icing)
-Round cake 10 inch diameter - 80RM (95RM with icing)
-Round cake 12 inch diameter - 115RM (132RM with icing)
-Round cake 14 inch diameter - 155RM (175RM with icing)
-Round cake 16 inch diameter - 200RM (220RM with icing)
-Square cake 6x6 inch size - 40RM (52RM with icing)
-Square cake 8x8 inch size - 70RM (88RM with icing)
-Square cake 10x10 inch size - 110RM (140RM with icing)
-Square cake 12x12 inch size - 155RM (195RM with icing)
-Rectangle cake 6x8 inch size - 50RM (65RM with icing)
-Rectangle cake 8x12 inch size - 100RM (125RM with icing)
-Rectangle cake 12x16 inch size - 200RM (240RM with icing)
-Height is 4 inch for all cakes
+2 cookies - 5RM
+4 cookies - 8RM
 
 Ordering process:
 Specify cake tier number (accept 1 to 3)
